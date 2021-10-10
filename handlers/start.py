@@ -52,7 +52,7 @@ Ketik » /help « Untuk Melihat Daftar Perintah!
                          "🤖 Assistant", url=f"https://t.me/{ASSISTANT_NAME}"
                     ),
                     InlineKeyboardButton(
-                        "🛠 Repo", url="https://github.com/tofikdn/TDMusicBot"
+                        "🛠 Repo", url="https://github.com/erickskynet/tebmus"
                     )
                 ]
             ]
@@ -72,7 +72,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Repo", url="https://github.com/tofikdn/TDMusicBot"
+                        "🛠 Repo", url="https://github.com/erickskynet/tebmus"
                     ),
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/tedesupport"
