@@ -2,7 +2,6 @@ git+https://github.com/pyrogram/pyrogram@master
 tgcrypto
 youtube-search
 youtube_search_python
-git+https://github.com/yt-dlp/yt-dlp@master
 py-tgcalls
 python-dotenv
 requests
@@ -16,4 +15,3 @@ wget
 future
 psutil
 python-arq
-gitpython
