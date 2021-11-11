@@ -16,6 +16,4 @@ wget
 future
 psutil
 python-arq
-dnspython
-heroku3
 gitpython
