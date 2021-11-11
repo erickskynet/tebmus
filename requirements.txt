@@ -12,6 +12,7 @@ asyncio
 youtube_dl
 ffmpeg-python
 pillow
+wget
 future
 psutil
 python-arq
